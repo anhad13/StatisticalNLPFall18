@@ -1,2 +1,2 @@
 # StatisticalNLPFall18
-Submissions rep
+Homework submissions for Fall18
